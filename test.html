@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chemistry Test</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Chemistry Test</h1>
+            <div id="timer">Time Remaining: 9:09</div>
+        </div>
+        <div class="content">
+            <div class="left-panel">
+                <div class="instructions">
+                    <h3>Instructions</h3>
+                    <p>Follow all guidelines strictly.</p>
+                    <p>AI monitoring is active. No suspicious activity detected.</p>
+                </div>
+                <div class="webcam-feed">
+                    <h3>Webcam Feed</h3>
+                    <video id="webcam" autoplay playsinline></video>
+                    <div id="ai-alerts">AI Alerts: No suspicious activity detected</div>
+                </div>
+            </div>
+            <div class="right-panel">
+                <div id="test-content">
+                    <div class="question-container">
+                        <h2 id="question-number">Question 1</h2>
+                        <p id="question-text">Loading question...</p>
+                        <div id="options" class="options"></div>
+                    </div>
+                    <div class="navigation">
+                        <button id="prev-btn">Previous</button>
+                        <button id="next-btn">Next</button>
+                    </div>
+                </div>
+                <div id="result-container" class="hidden">
+                    <h2>Test Results</h2>
+                    <p id="final-score"></p>
+                    <div id="result-details"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

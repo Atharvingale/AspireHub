@@ -1,0 +1,353 @@
+[
+    {
+      "question": "Which of the following is the unit of electric field?",
+      "options": ["Volt", "Coulomb", "Newton/Coulomb", "Ampere"],
+      "answer": "Newton/Coulomb"
+    },
+    {
+      "question": "The de Broglie wavelength of a particle is given by λ = h/p. The quantity ‘p’ represents:",
+      "options": ["Power", "Potential", "Momentum", "Energy"],
+      "answer": "Momentum"
+    },
+    {
+      "question": "Which of the following is true for the photoelectric effect?",
+      "options": ["The energy of emitted electrons depends on the intensity of light.", "The emission of photoelectrons is independent of the frequency of light.", "The photoelectric effect provides evidence for the particle nature of light.", "The number of photoelectrons is inversely proportional to the frequency of light."],
+      "answer": "The photoelectric effect provides evidence for the particle nature of light."
+    },
+    {
+      "question": "In the interference pattern of light, the condition for constructive interference is:",
+      "options": ["Δx = (m + 1/2) λ", "Δx = m λ", "Δx = (2m + 1) λ/2", "Δx = m λ/2"],
+      "answer": "Δx = m λ"
+    },
+    {
+      "question": "In an electric circuit, the equivalent resistance of two resistors connected in series is:",
+      "options": ["The sum of individual resistances.", "The product of individual resistances.", "The difference between the individual resistances.", "The inverse of the sum of their reciprocals."],
+      "answer": "The sum of individual resistances."
+    },
+    {
+      "question": "The SI unit of magnetic flux is:",
+      "options": ["Weber", "Ampere", "Tesla", "Henry"],
+      "answer": "Weber"
+    },
+    {
+      "question": "The energy of a photon is given by:",
+      "options": ["E = mc²", "E = hν", "E = ½ mv²", "E = P × t"],
+      "answer": "E = hν"
+    },
+    {
+      "question": "The electromagnetic wave that has the highest frequency is:",
+      "options": ["Radio waves", "X-rays", "Gamma rays", "Microwaves"],
+      "answer": "Gamma rays"
+    },
+    {
+      "question": "A capacitor of capacitance C is charged with a potential difference V. The energy stored in the capacitor is:",
+      "options": ["12CV²", "CV²", "12C²V", "12CV"],
+      "answer": "12CV²"
+    },
+    {
+      "question": "The equation for the magnetic field at the center of a current-carrying circular loop is given by:",
+      "options": ["B = μ₀I/2r", "B = μ₀I/4r", "B = μ₀Ir/2", "B = μ₀I/r"],
+      "answer": "B = μ₀I/2r"
+    },
+  {
+      "question": "The wavelength of an electron is given by de Broglie’s relation λ = h/p. The momentum of an electron is p = mv. If the velocity of the electron is doubled, the wavelength will:",
+      "options": ["Increase by a factor of 2", "Decrease by a factor of 2", "Increase by a factor of √2", "Decrease by a factor of √2"],
+      "answer": "Decrease by a factor of 2"
+    },
+    {
+      "question": "The refractive index of a material is the ratio of the speed of light in vacuum to:",
+      "options": ["The speed of light in air", "The speed of light in the material", "The wavelength of light in vacuum", "The frequency of light in the material"],
+      "answer": "The speed of light in the material"
+    },
+    {
+      "question": "The half-life of a radioactive element is 10 years. The time required for 75% of the material to decay is:",
+      "options": ["5 years", "10 years", "15 years", "20 years"],
+      "answer": "15 years"
+    },
+    {
+      "question": "The principle behind the working of an electric motor is:",
+      "options": ["Ampere's law", "Faraday's law of electromagnetic induction", "Lenz’s law", "Coulomb's law"],
+      "answer": "Ampere's law"
+    },
+    {
+      "question": "Which of the following devices uses the phenomenon of electromagnetic induction?",
+      "options": ["Electric motor", "Dynamo", "Electric bulb", "Transformer"],
+      "answer": "Dynamo"
+    },
+    {
+      "question": "What is the SI unit of magnetic field intensity?",
+      "options": ["Weber", "Tesla", "Ampere", "Henry"],
+      "answer": "Tesla"
+    },
+    {
+      "question": "In the photoelectric effect, the energy of the emitted electrons depends on:",
+      "options": ["Intensity of the incident light", "Frequency of the incident light", "Both intensity and frequency", "The color of the light"],
+      "answer": "Frequency of the incident light"
+    },
+    {
+      "question": "A transformer works on the principle of:",
+      "options": ["Static electricity", "Faraday's law of induction", "Lenz’s law", "Kirchhoff’s law"],
+      "answer": "Faraday's law of induction"
+    },
+    {
+      "question": "The energy stored in a magnetic field is given by:",
+      "options": ["E = ½ L I²", "E = ½ C V²", "E = mgh", "E = ½ m v²"],
+      "answer": "E = ½ L I²"
+    },
+    {
+      "question": "The electric field inside a conductor is:",
+      "options": ["Zero", "Constant", "Maximum at the surface", "Depends on the potential difference"],
+      "answer": "Zero"
+    },
+  {
+      "question": "Which of the following is not a vector quantity?",
+      "options": ["Force", "Velocity", "Speed", "Electric field"],
+      "answer": "Speed"
+    },
+    {
+      "question": "The energy of a photon is proportional to:",
+      "options": ["The square of its frequency", "Its frequency", "Its wavelength", "Its amplitude"],
+      "answer": "Its frequency"
+    },
+    {
+      "question": "Which of the following is true for the interference of light?",
+      "options": ["The maximum intensity occurs when the phase difference is zero.", "The minimum intensity occurs when the phase difference is 90 degrees.", "Interference only occurs when the light is monochromatic.", "Interference occurs only when the light is polarized."],
+      "answer": "Interference only occurs when the light is monochromatic."
+    },
+    {
+      "question": "The force on a charged particle moving in a magnetic field depends on:",
+      "options": ["The charge of the particle only", "The velocity of the particle only", "Both the charge and velocity", "The charge, velocity, and magnetic field"],
+      "answer": "The charge, velocity, and magnetic field"
+    },
+    {
+      "question": "The focal length of a concave mirror is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "answer": "Positive"
+    },
+    {
+      "question": "A car moving on a curved path has:",
+      "options": ["No acceleration", "Centripetal acceleration", "Only tangential acceleration", "Constant speed but no acceleration"],
+      "answer": "Centripetal acceleration"
+    },
+    {
+      "question": "Which of the following statements is true about the velocity of light?",
+      "options": ["It is constant in all mediums.", "It is the same in air and vacuum.", "It depends on the wavelength of light.", "It is faster in water than in air."],
+      "answer": "It depends on the wavelength of light."
+    },
+    {
+      "question": "The relationship between current (I), voltage (V), and resistance (R) is given by:",
+      "options": ["Ohm’s law", "Ampere’s law", "Kirchhoff's law", "Faraday’s law"],
+      "answer": "Ohm’s law"
+    },
+    {
+      "question": "In a parallel combination of resistors, the total resistance is:",
+      "options": ["The sum of the individual resistances", "The product of the individual resistances", "The reciprocal of the sum of their reciprocals", "The inverse of the sum of the resistances"],
+      "answer": "The reciprocal of the sum of their reciprocals"
+    },
+    {
+      "question": "Which of the following is a unit of capacitance?",
+      "options": ["Farad", "Tesla", "Ampere", "Watt"],
+      "answer": "Farad"
+    },
+  {
+      "question": "What is the relation between the radius (r) of an orbit and the speed (v) of an electron in a hydrogen atom?",
+      "options": ["v ∝ r", "v ∝ 1/r", "v ∝ r²", "v ∝ 1/r²"],
+      "answer": "v ∝ 1/r"
+    },
+    {
+      "question": "The photoelectric effect can be explained by:",
+      "options": ["Huygens' principle", "Newton's corpuscular theory", "Einstein's photon theory", "Maxwell's electromagnetic theory"],
+      "answer": "Einstein's photon theory"
+    },
+    {
+      "question": "What happens to the resistance of a conductor if the temperature increases?",
+      "options": ["It increases", "It decreases", "It remains the same", "It fluctuates"],
+      "answer": "It increases"
+    },
+    {
+      "question": "The energy stored in a capacitor is:",
+      "options": ["½ C V²", "C V²", "½ L I²", "C I²"],
+      "answer": "½ C V²"
+    },
+    {
+      "question": "In a common-emitter transistor configuration, the input is taken from:",
+      "options": ["Emitter", "Collector", "Base", "Both emitter and collector"],
+      "answer": "Base"
+    },
+    {
+      "question": "The nuclear force is:",
+      "options": ["Attractive at all distances", "Short-range force", "Long-range force", "Independent of the nucleon number"],
+      "answer": "Short-range force"
+    },
+    {
+      "question": "Which of the following is used to detect radioactivity?",
+      "options": ["Thermometer", "Oscilloscope", "Geiger-Muller counter", "Microphone"],
+      "answer": "Geiger-Muller counter"
+    },
+    {
+      "question": "The energy of a photon is inversely proportional to its:",
+      "options": ["Frequency", "Wavelength", "Intensity", "Speed"],
+      "answer": "Wavelength"
+    },
+    {
+      "question": "Which of the following is the source of cosmic rays?",
+      "options": ["Sun", "Earth", "Outer space", "Atmosphere"],
+      "answer": "Outer space"
+    },
+    {
+      "question": "The value of Planck’s constant (h) is:",
+      "options": ["6.63×10⁻³⁴ J s", "6.63×10⁻³² J s", "3.14×10⁻³⁴ J s", "3.14×10⁻³² J s"],
+      "answer": "6.63×10⁻³⁴ J s"
+    },
+  {
+      "question": "Which of the following has the smallest wavelength?",
+      "options": ["Red light", "Blue light", "Green light", "X-rays"],
+      "answer": "X-rays"
+    },
+    {
+      "question": "In a galvanometer, the current passing through the coil produces:",
+      "options": ["A magnetic moment", "A deflection", "A heating effect", "A voltage"],
+      "answer": "A deflection"
+    },
+    {
+      "question": "Which of the following correctly describes the relation between frequency and wavelength for an electromagnetic wave?",
+      "options": ["The frequency is directly proportional to the wavelength", "The frequency is inversely proportional to the wavelength", "The frequency and wavelength are independent of each other", "The frequency is proportional to the square of the wavelength"],
+      "answer": "The frequency is inversely proportional to the wavelength"
+    },
+    {
+      "question": "Which of the following is the primary function of a transformer?",
+      "options": ["To increase current", "To increase voltage", "To decrease current", "To decrease voltage"],
+      "answer": "To increase voltage"
+    },
+    {
+      "question": "The law of reflection states that the angle of incidence is:",
+      "options": ["Greater than the angle of reflection", "Less than the angle of reflection", "Equal to the angle of reflection", "Zero"],
+      "answer": "Equal to the angle of reflection"
+    },
+    {
+      "question": "The energy of an electron in the first orbit of a hydrogen atom is:",
+      "options": ["-13.6 eV", "-3.4 eV", "-6.8 eV", "-1.5 eV"],
+      "answer": "-13.6 eV"
+    },
+    {
+      "question": "Which of the following is used in radar systems?",
+      "options": ["Microwaves", "Radio waves", "X-rays", "Infrared rays"],
+      "answer": "Microwaves"
+    },
+    {
+      "question": "The energy required to remove an electron from the outermost shell of an atom is called:",
+      "options": ["Ionization energy", "Electron affinity", "Activation energy", "Bond energy"],
+      "answer": "Ionization energy"
+    },
+    {
+      "question": "The specific heat of water is:",
+      "options": ["4.18 J/g°C", "2.18 J/g°C", "3.18 J/g°C", "1.18 J/g°C"],
+      "answer": "4.18 J/g°C"
+    },
+    {
+      "question": "A parallel plate capacitor is charged. The potential difference is reduced. The energy stored in the capacitor:",
+      "options": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+      "answer": "Decreases"
+    },
+  {
+      "question": "What does the term 'nuclear fusion' refer to?",
+      "options": ["Splitting of heavy atomic nuclei", "Combining of light atomic nuclei", "Combination of neutrons", "Emission of energy from a nucleus"],
+      "answer": "Combining of light atomic nuclei"
+    },
+    {
+      "question": "The magnetic field at the center of a circular loop of wire carrying current I is proportional to:",
+      "options": ["I", "I²", "1/I", "1/r²"],
+      "answer": "I"
+    },
+    {
+      "question": "Which of the following is responsible for the blue color of the sky?",
+      "options": ["Diffusion of sunlight by air molecules", "Reflection of light by clouds", "Scattering of sunlight by water droplets", "Absorption of light by the atmosphere"],
+      "answer": "Diffusion of sunlight by air molecules"
+    },
+    {
+      "question": "In an electric motor, the direction of current in the coil is reversed using:",
+      "options": ["A switch", "A commutator", "A capacitor", "A transformer"],
+      "answer": "A commutator"
+    },
+    {
+      "question": "In Rutherford’s gold foil experiment, most of the alpha particles:",
+      "options": ["Passed straight through the foil", "Were absorbed by the foil", "Deflected at 90°", "Deflected back at very large angles"],
+      "answer": "Passed straight through the foil"
+    },
+    {
+      "question": "The magnetic field lines around a bar magnet are:",
+      "options": ["Always straight", "Always circular", "Always parallel", "Circular and form closed loops"],
+      "answer": "Circular and form closed loops"
+    },
+    {
+      "question": "In an atom, the total number of protons and neutrons is called:",
+      "options": ["Atomic number", "Mass number", "Electron number", "Isotopic number"],
+      "answer": "Mass number"
+    },
+    {
+      "question": "Which of the following waves cannot travel through a vacuum?",
+      "options": ["Sound waves", "Radio waves", "Light waves", "Microwaves"],
+      "answer": "Sound waves"
+    },
+    {
+      "question": "The principle of superposition applies to:",
+      "options": ["Magnetic fields", "Electric fields", "Waves", "Both electric and magnetic fields"],
+      "answer": "Waves"
+    },
+    {
+      "question": "Which of the following is a scalar quantity?",
+      "options": ["Speed", "Velocity", "Force", "Acceleration"],
+      "answer": "Speed"
+    },
+  {
+      "question": "The unit of power is:",
+      "options": ["Ampere", "Watt", "Volt", "Ohm"],
+      "answer": "Watt"
+    },
+    {
+      "question": "The force between two point charges is directly proportional to:",
+      "options": ["The product of the charges", "The sum of the charges", "The square of the charges", "The distance between the charges"],
+      "answer": "The product of the charges"
+    },
+    {
+      "question": "The current in an electric circuit is:",
+      "options": ["The charge per unit time", "The energy per unit time", "The work done per unit charge", "The resistance per unit voltage"],
+      "answer": "The charge per unit time"
+    },
+    {
+      "question": "In a diode, current flows:",
+      "options": ["In both directions", "Only in one direction", "In no direction", "In a sinusoidal pattern"],
+      "answer": "Only in one direction"
+    },
+    {
+      "question": "The time period of a simple pendulum depends on:",
+      "options": ["The amplitude", "The length of the pendulum", "The mass of the pendulum bob", "Both the mass and the length of the pendulum"],
+      "answer": "The length of the pendulum"
+    },
+    {
+      "question": "The energy of a photon is directly proportional to its:",
+      "options": ["Frequency", "Wavelength", "Speed", "Intensity"],
+      "answer": "Frequency"
+    },
+    {
+      "question": "The refractive index of a material is:",
+      "options": ["The ratio of the speed of light in air to the speed of light in the material", "The ratio of the speed of light in the material to the speed of light in air", "The ratio of the intensity of light in the material to the intensity in air", "The angle of incidence divided by the angle of refraction"],
+      "answer": "The ratio of the speed of light in the material to the speed of light in air"
+    },
+    {
+      "question": "The lens which converges parallel rays of light is:",
+      "options": ["Convex lens", "Concave lens", "Cylindrical lens", "Spherical lens"],
+      "answer": "Convex lens"
+    },
+    {
+      "question": "The process in which a nucleus absorbs energy and splits into two or more lighter nuclei is called:",
+      "options": ["Fission", "Fusion", "Radioactive decay", "Ionization"],
+      "answer": "Fission"
+    },
+    {
+      "question": "The focal length of a lens is the distance between the:",
+      "options": ["Focus and the object", "Focus and the lens", "Focus and the image", "Lens and the object"],
+      "answer": "Focus and the lens"
+    }
+  ]
+  
